@@ -2066,7 +2066,7 @@ PrefabInstance:
     - target: {fileID: 2321230931700777055, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
       propertyPath: driveLimit
-      value: 1.96
+      value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 2321230931700777055, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
@@ -2091,7 +2091,7 @@ PrefabInstance:
     - target: {fileID: 2321230931700777055, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
       propertyPath: moveToTargetValue
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2321230931700777055, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
@@ -2141,7 +2141,7 @@ PrefabInstance:
     - target: {fileID: 8207990590474721287, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.46
+      value: 0.792
       objectReference: {fileID: 0}
     - target: {fileID: 8207990590474721287, guid: fe37ed9670a759f4982047abcdc2f0eb,
         type: 3}
@@ -2415,7 +2415,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh20470
+  m_Name: pb_Mesh20502
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
