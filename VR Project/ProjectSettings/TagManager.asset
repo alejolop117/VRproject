@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fluid
   - Tapa
+  - RoomLight
+  - Foto
   layers:
   - Default
   - TransparentFX
